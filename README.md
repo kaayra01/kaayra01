@@ -3,7 +3,7 @@
 - Me chamo Kaira Victória
 - Sou estudante de sistemas de informação
 - Tenho 21 anos
-- Amo tecnologia
+- Amo tecnologia (estou começando em desenvolvimento)
 - Adoro pets (e tenho um canino teimoso)
 - Você pode me perguntar sobre músicas (ouço muita coisa)
 - Gosto de curiosidades aleatórias
