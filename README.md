@@ -6,9 +6,9 @@
 - Amo tecnologia
 - Adoro pets (e tenho um canino teimoso)
 - Você pode me perguntar sobre músicas (ouço muita coisa)
-##### - Gosto de curiosidades aleatórias
+- Gosto de curiosidades aleatórias
 
-> Não movimento muito por aqui, mas quem sabe isso mude?
+##### Não movimento muito por aqui, mas quem sabe isso mude?
 
 <!--
 **kaayra01/kaayra01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
