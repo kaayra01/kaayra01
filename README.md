@@ -4,12 +4,11 @@
 
 
 ### Parece que você caiu aqui nesse perfil aleatório, então deixa eu te contar algumas coisas sobre mim.
-- Me chamo Kaira
+- Me chamo Kaira (sim, você não leu errado)
 - Sou graduada em sistemas de informação
-- Tenho 23 anos
-- Amo tecnologia
+- Amo tecnologia, principalmente o que envolve códigos
 - Adoro pets (e tenho um canino teimoso)
-- Você pode me perguntar sobre músicas (ouço muita coisa)
+- Você pode me perguntar sobre músicas (ouço muita coisa) e livros
 - Gosto de curiosidades aleatórias
 
 
